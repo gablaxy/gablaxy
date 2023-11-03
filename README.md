@@ -1,1 +1,3 @@
-<h4 align="center"><samp>I'm a college student in computer science and aspiring developer. I enjoy Python and C. I have a keen interest in all space related things, especially artificial satellites. Lately, I've been learning about windows managers for arch.</samp></h4>
+<p align="center">
+  <img width="auto" height="auto" src="https://github.com/gablaxy/gablaxy/assets/32848524/b955e14e-6a89-40cd-a641-f999c249265e">
+</p>
